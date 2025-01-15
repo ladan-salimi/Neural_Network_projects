@@ -10,7 +10,6 @@ The course introduces fundamental and advanced topics in Deep Neural Networks (D
 2. **Neural Networks**: Perceptrons and backpropagation.
 3. **Deep Feed-Forward Networks**: Gradient descent and optimization.
 4. **Convolutional Neural Networks (CNNs)**: Architectures, applications, and object detection.
-5. **Recurrent Neural Networks (RNNs)**: Applications in NLP and sequence modeling.
 6. **Autoencoders and GANs**: Data reconstruction and generative modeling.
 7. **Transformers**: Advanced architectures for NLP and beyond.
 
