@@ -6,7 +6,6 @@ Welcome to the **Deep Neural Networks** repository! This repository contains all
 
 The course introduces fundamental and advanced topics in Deep Neural Networks (DNN), The key areas of study include:
 
-1. **Machine Learning Basics**: Introduction, evaluation metrics, and confusion matrix.
 2. **Neural Networks**: Perceptrons and backpropagation.
 3. **Deep Feed-Forward Networks**: Gradient descent and optimization.
 4. **Convolutional Neural Networks (CNNs)**: Architectures, applications, and object detection.
