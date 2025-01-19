@@ -1,4 +1,4 @@
-# Deep Neural Networks (IKT450) - 2024
+# Deep Neural Networks Course work
 
 Welcome to the **Deep Neural Networks** repository! This repository contains all assignments for the Deep Neural Network course.
 
