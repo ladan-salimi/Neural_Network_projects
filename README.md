@@ -16,7 +16,6 @@ The course introduces fundamental and advanced topics in Deep Neural Networks (D
 
 This repository includes the following:
 
-- **Assignments**: Implementations and evaluations of various DNN techniques.
     - **K-Nearest Neighbors (KNN)**: Algorithm implemented from scratch with performance evaluations.
     - **Multilayer Perceptron (MLP)**: Implemented using Python and a high-level library.
     - **Convolutional Neural Networks (CNNs)**: Architectures for food classification.
