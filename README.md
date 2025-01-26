@@ -40,7 +40,6 @@ This repository includes the following:
     - [Pima Indians Diabetes Dataset](https://www.kaggle.com/kumargh/pimaindiansdiabetescsv)
     - [Ecoli Dataset](https://archive.ics.uci.edu/ml/datasets/Ecoli)
     - [Food-11 Dataset](https://mmspg.epfl.ch/food-image-datasets)
-    - [Python Questions from Stack Overflow](https://www.kaggle.com/stackoverflow/pythonquestions)
     - [Balloon Dataset](https://github.com/matterport/Mask_RCNN/releases)
 
 ## 🤝 Contributions
