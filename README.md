@@ -20,7 +20,7 @@ This repository includes the following:
     - **Multilayer Perceptron (MLP)**: Implemented using Python and a high-level library.
     - **Convolutional Neural Networks (CNNs)**: Architectures for food classification.
     - **Object Detection**: Instance segmentation using advanced convolutional nets.
-    - **Autoencoders & GANs**: Removing systematic noise from images.
+    - **Autoencoders**: Removing systematic noise from images.
 
 ## 📊 How to Use
 
